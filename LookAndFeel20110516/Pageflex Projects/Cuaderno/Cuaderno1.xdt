@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?NuDoc tsl_version="12"?>
+<PF_Designer_Doc use_baseline_for_fixed_line_spacing="false" use_legacy_font_ascenders="7" line_spacing_accomodates_default_font="false" interparagraph_space_overlaps="false" pfdoc_undo_page="131071" pfdoc_left_right="false" composition_version="12">
+	<Master_A guides_vertical="" guides_horizontal="" grid_rows="height=2463800" grid_columns="width=1854200">
+		<PF_Image_Base object_lock="TRUE" data_tag="Background" image_page_number="1" pfimage_fit="fit_image" width="1.000000scale" height="1.000000scale" src="C:\Users\Public\Documents\SaulBlumenthalStudios\Deployments\LetraMagica\Design files\Productos\Cuadernnos\pdf sin nombre\Niñas\full color 4.pdf" default_image_data_height="2408677" default_image_data_width="1862891" display_order="0" y_position="-19726" x_position="-26922"></PF_Image_Base>
+		<PF_TextFrame_Base copyfitting_rule_name="Name" runaround="false" height="290199" width="1750125" display_order="1" y_position="772707" x_position="56650">
+			<_text_column runaround="false" v_align_contents="center" max_width="1750125" min_width="0">
+				<PF_Para_Base align="center">
+					<_char data_tag="Name" font_size="253944" font_name="/CreativeBlock BB" bold="true" italic="false" text_color="White">Alberto</_char>
+					<_char font_size="253944" font_name="/CreativeBlock BB" bold="true" italic="false" text_color="White"></_char>
+				</PF_Para_Base>
+			</_text_column>
+		</PF_TextFrame_Base>
+	</Master_A>
+</PF_Designer_Doc>
+
+<?Pageflex CreatedBy="Pageflex Studio" AppVersion="10.1132.0.0" EngineVersion="6.5.2.0" ?>
+<!-- Pageflex Creation Data
+Created by: Pageflex Studio
+AppVersion 10.1132.0.0
+EngineVersion 6.5.2.0
+-->

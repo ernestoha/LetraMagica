@@ -1,0 +1,13 @@
+<!--ATModel:PF_Area_Template_Box-->
+<!--size:1296116,880033-->
+<?Pageflex pf_xat_ver="1"?>
+<PF_TextFrame_Base height="880033" width="1296116" display_order="0" y_position="0" x_position="0">
+<_text_column max_width="1296116" min_width="0">
+<PF_Para_Base align="center">
+<_char font_name="/Curlz MT" font_size="211620" text_color="White">Diario de</_char>
+</PF_Para_Base>
+<PF_Para_Base rule_after_overprint="false" rule_before_overprint="false" copyfitting_strategy="38797" align="center">
+<_char data_tag="Name" font_name="/Curlz MT" font_size="211620" text_color="White">Name</_char>
+</PF_Para_Base>
+</_text_column>
+</PF_TextFrame_Base>
